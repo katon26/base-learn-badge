@@ -9,7 +9,7 @@ This repository contains the code and assets for the Base Learn Badges.
 
 
 ## Directory .sol files
-// make redirect to each folder
+directory to each folder
 
 1. [Newcomer](./1-newcomer) - Newcomer Badge
 2. [Acolyte](./2-acolyte) - Acolyte Badge
